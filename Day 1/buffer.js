@@ -30,8 +30,8 @@ function readFileBuffer(filePath) {
     console.log(`Memory used: ${memoryUsed.toFixed(3)}MB`);
     const performanceData = {
       method: 'fs.readFile (Buffer)',
-      timeTaken: timeTaken.toFixed(3),  // Time in ms
-      memoryUsed: memoryUsed.toFixed(3), // Memory in MB
+      timeTaken: timeTaken.toFixed(3),  // time format in ms
+      memoryUsed: memoryUsed.toFixed(3), // memory format in mb
     };
 
     logPerformanceResults(performanceData);
