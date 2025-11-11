@@ -56,3 +56,84 @@ function processChunk(chunk, minLen){
 
   return { totalWords: chunk.length, longestWord: getLongestWord(chunk), shortestWord: getShortestWord(chunk), uniqueWords: Object.keys(wordFreq) };
 }
+
+async function processFile(filePath, minLen = 0, unique = false, topN = 0, concurrency = 1) {
+  const metrics = { concurrency, totalWords: 0, longestWord: '', shortestWord: null, uniqueWords: 0, topWords: [], timeMs: 0 };
+  const startTime = performance.now();
+
+  try {
+    const chunks = await readFileInChunks(filePath);
+
+    let totalWords = 0;
+    let longestWord = '';
+    let shortestWord = null;
+    let wordFreq = {};
+    let uniqueWords = null;
+    if(unique) uniqueWords = new Set();
+
+    async function processChunksConcurrently(chunks, concurrency) {
+      let index = 0;
+
+      async function worker() {
+        while (index < chunks.length) {
+          const currentIndex = index++;
+          const result = processChunk(chunks[currentIndex], minLen);
+
+          totalWords += result.totalWords;
+          if (result.longestWord.length > longestWord.length) longestWord = result.longestWord;
+          if (result.shortestWord && (!shortestWord || result.shortestWord.length < shortestWord.length)) {
+            shortestWord = result.shortestWord;
+          }
+
+          if(unique){
+            result.uniqueWords.forEach(word => {
+              uniqueWords.add(word);
+              wordFreq[word] = (wordFreq[word] || 0) + 1;
+            });
+          }
+          
+        }
+      }
+
+      const workers = [];
+      for (let i = 0; i < concurrency; i++) {
+        workers.push(worker());
+      }
+
+      await Promise.all(workers);
+    }
+
+    await processChunksConcurrently(chunks, concurrency);
+
+    metrics.totalWords = totalWords;
+    metrics.longestWord = longestWord;
+    metrics.shortestWord = shortestWord;
+    metrics.uniqueWords = uniqueWords.size;
+
+    console.log(`Total words processed: ${metrics.totalWords}`);
+    if(unique) console.log(`Unique words: ${metrics.uniqueWords}`);
+    console.log(`Longest word: ${metrics.longestWord}`);
+    console.log(`Shortest word: ${metrics.shortestWord}`);
+
+    if (topN > 0) {
+      const sortedWords = Object.entries(wordFreq)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, topN);
+
+      metrics.topWords = sortedWords.map(([word, freq]) => ({ word, freq }));
+
+      console.log(`Top ${topN} words: `);
+      sortedWords.forEach(([word,freq],idx)=>{
+        console.log(`${idx+1}. ${word} : ${freq}`)
+      })
+    }
+
+
+  } catch (err) {
+    console.error('Error processing file:', err);
+  } finally {
+    const endTime = performance.now();
+    metrics.timeMs = endTime - startTime;
+    return metrics;
+  }
+}
