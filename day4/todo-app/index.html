@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>D4 Todo App</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="app">
+            <header>
+                <h1>D4 Todo App</h1>
+            </header>
+
+            <div class="inputBox">
+                <input type="text" id="taskInput" placeholder="What's on your mind?" />
+                <button id="addTask">Add</button>
+            </div>
+
+            <div class="tasks" id="taskList">
+                <div class="pendingTasks">
+                    <h3>Pending Tasks</h3>
+                    <ul id="pendingTasksList"></ul>
+                </div>
+
+                <div class="completedTasks" id="taskList">
+                    <h3>Completed Tasks</h3>
+                    <ul id="completedTasksList"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
