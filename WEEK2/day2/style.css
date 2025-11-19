@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.container {
+  display: grid;
+  grid-template-areas:
+    "header menu menu"
+    "hero hero hero"
+    "main main image"
+    "main main extra"
+    "banner banner banner";
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto 500px auto auto auto;
+  gap: 10px;
+  padding: 10px;
+  height: 100vh;
+}
+
+.header {
+  grid-area: header;
+  background-color: #0b1a33;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu {
+  grid-area: menu;
+  background-color: #e94e4e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero {
+  grid-area: hero;
+  background-color: #4e8cd9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main {
+  grid-area: main;
+  background-color: #142841;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 25%;
+}
+
+.image {
+  grid-area: image;
+  background-color: #b3e5e1;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.extra {
+  grid-area: extra;
+  background-color: #36b7a5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner {
+  grid-area: banner;
+  background-color: #f5cc58;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: large;
+  }
+
+  .container {
+    grid-template-areas:
+      "header"
+      "menu"
+      "hero"
+      "main"
+      "image"
+      "extra"
+      "banner";
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    height: auto;
+  }
+
+  .main {
+    margin-right: 0;
+  }
+
+  .header,
+  .menu,
+  .hero,
+  .main,
+  .image,
+  .extra,
+  .banner {
+    min-height: 150px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    font-size: medium;
+  }
+
+  .container {
+    gap: 5px;
+    padding: 5px;
+  }
+
+  .header,
+  .menu,
+  .hero,
+  .main,
+  .image,
+  .extra,
+  .banner {
+    min-height: 120px;
+    padding: 10px;
+  }
+}

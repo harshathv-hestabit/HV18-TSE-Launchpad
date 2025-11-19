@@ -1,0 +1,112 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(45deg, #0e4678, #69b2b2);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fdf6e3;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    width: 100%;
+}
+
+header h1 {
+    color: #0e4678;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.inputBox {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 1.5rem;
+    gap: 0.5rem;
+}
+
+#taskInput {
+    padding: 0.8rem;
+    font-style: italic;
+    background-color: #e6f0fa;
+    color: #0e4678;
+    border-radius: 0.5rem;
+    border: 1px solid #0e4678;
+    outline: none;
+}
+
+#addTask {
+    padding: 0.8rem 1.2rem;
+    background-color: #0e4678;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    font-weight: bold;
+}
+
+.tasks {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    width: 100%;
+    padding-left: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+ul li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.6rem 1rem;
+    border-radius: 0.5rem;
+    background-color: #e0f2ff;
+}
+
+li button {
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    color: #d11a2a;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+li span {
+    flex: 1;
+    margin: auto 0.5rem auto;
+    word-break: break-word;
+}
+
+#completedTasksList span {
+    text-decoration: line-through;
+    color: #555;
+}
+
