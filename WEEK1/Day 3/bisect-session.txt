@@ -1,0 +1,37 @@
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git log --oneline
+0edfe22 (HEAD -> master) commit 8
+fc188bb commit 7
+3f0890e commit 6
+94e9a94 commit 5
+88b8c99 commit 4 bug
+a40d4ef commit 3
+b91ede0 commit 2
+c856725 commit 1
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git bisect start
+Already on 'master'
+status: waiting for both good and bad commits
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git bisect bad
+status: waiting for good commit(s), bad commit known
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git bisect good a40d4ef
+Bisecting: 2 revisions left to test after this (roughly 1 step)
+[94e9a94d56fd6377d9e4c2b028354ec16d999880] commit 5
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git bisect bad
+Bisecting: 0 revisions left to test after this (roughly 0 steps)
+[88b8c99ac8b18d769a3933e1aa3bd5a6d121b61a] commit 4 bug
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git bisect bad
+88b8c99ac8b18d769a3933e1aa3bd5a6d121b61a is the first bad commit
+commit 88b8c99ac8b18d769a3933e1aa3bd5a6d121b61a
+Author: Harshath Venkatesh <harshath.venkatesh@hestabit.in>
+Date:   Wed Nov 5 16:51:27 2025 +0530
+
+    commit 4 bug
+
+ app.js | 1 +
+ 1 file changed, 1 insertion(+)
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ 

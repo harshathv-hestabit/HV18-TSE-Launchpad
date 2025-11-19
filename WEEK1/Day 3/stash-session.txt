@@ -1,0 +1,31 @@
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git stash
+Saved working directory and index state WIP on master: 2c15206 first commit
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git pull origin master
+From https://github.com/harshathvhestabit-oss/week1
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ git stash apply
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+harshathvenkastesh@hestabit-Latitude-3450:~/Training/Week 1/Day 3/tsw1d3$ 
