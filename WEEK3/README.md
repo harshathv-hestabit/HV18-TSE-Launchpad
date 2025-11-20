@@ -23,3 +23,13 @@
     in standard layout - the navbar is a child of sidebar component so hiding it was not possible.
     using div for separating for navbar and sidebar. and then applying hidden property made the sidebar invisible but the space did not go away.
     fix for this was implemented by using a different layout component, since the main layout cannot contain the client directive when metadata is present. and created a toggle sidebar function using useState
+
+
+# Day 3
+## implementing routing for the following paths-
+    / - which is the landing page
+    /dashboard - the dashboard page containing all the content implement from day1 till day2
+    /dashboard/profile - the user profile page
+    /about - the about page
+## as of day 3 task completetion, the said routes render pages that have some placeholder lines to represent the paths
+## learnt about the nextjs routing in codevolution crash course where they outlined the routing concept in a clear manner.
