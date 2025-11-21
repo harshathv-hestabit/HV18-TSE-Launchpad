@@ -1,7 +1,7 @@
 export default function Card({ title, icon, children, classProp }) {
   return (
-    <div className={`shadow rounded-lg ${classProp}`}>
-      <div className={!classProp ? "bg-gray-300 flex p-6 gap-2" : "flex p-6 gap-2"}>
+    <div className={`flex flex-col shadow rounded-lg ${classProp}`}>
+      <div className={!classProp ? "bg-gray-300 text-gray-700 flex p-6 gap-2" : "px-1"}>
         {icon && <h3>{icon}</h3>}
         {title && <h3 className="font-semibold">{title}</h3>}
       </div>

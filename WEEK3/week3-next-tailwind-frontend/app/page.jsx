@@ -1,9 +1,17 @@
 "use client";
+import { RetroGrid } from "@/components/ui/retro-grid";
+import Hero from "../components/landing/Hero";
+import Features from "../components/landing/Features";
+import Testimonials from "../components/landing/Testimonials";
+import Footer from "../components/landing/Footer";
 
 export default function Home() {
   return (
-    <div className="text-black space-y-8">
-      I Know this is the landing, but there's nothing here to see. Atleast for now!
-    </div>
+    <main className="text-slate-900">
+      <Hero />
+      <Features />
+      <Testimonials />
+      <Footer />
+    </main>
   );
 }

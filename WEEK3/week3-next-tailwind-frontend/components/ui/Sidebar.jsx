@@ -6,7 +6,7 @@ import SidebarGroupItem from "./Sidebar-group-items";
 
 export default function Sidebar() {
   return (
-    <aside className="flex flex-col bg-[#343A40] w-64 h-full fixed py-6">
+    <aside className="flex flex-col bg-[#343A40] w-64 h-full fixed pt-6">
 
       <div className="px-6 text-white text-2xl font-semibold justify-center mb-3">
         Start Bootstrap

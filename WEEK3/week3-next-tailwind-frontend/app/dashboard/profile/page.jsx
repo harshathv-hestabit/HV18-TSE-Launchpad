@@ -1,7 +1,9 @@
-export default function Dashboard() {
+import ProfileView from "@/components/profile/user-profile";
+
+export default function Page() {
   return (
     <div className="space-y-8 text-black">
-        Profile page it is!!
+      <ProfileView />
     </div>
   );
 }
