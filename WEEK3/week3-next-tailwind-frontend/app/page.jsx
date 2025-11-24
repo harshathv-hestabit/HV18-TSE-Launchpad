@@ -1,5 +1,8 @@
-"use client";
-import { RetroGrid } from "@/components/ui/retro-grid";
+export const metadata = {
+  title: "Start Bootstrap",
+  description: "Ship faster with a tiny, performant UI.",
+};
+
 import Hero from "../components/landing/Hero";
 import Features from "../components/landing/Features";
 import Testimonials from "../components/landing/Testimonials";

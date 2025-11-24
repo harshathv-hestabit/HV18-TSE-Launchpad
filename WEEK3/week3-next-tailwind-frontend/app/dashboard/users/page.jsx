@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Users",
+  description: "Access active users.",
+};
+
 import DataTable from "@/components/ui/Table";
 import { FaUserSecret } from "react-icons/fa";
 

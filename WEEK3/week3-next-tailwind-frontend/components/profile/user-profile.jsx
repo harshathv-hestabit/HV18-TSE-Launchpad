@@ -1,11 +1,13 @@
 "use client"
+import Image from "next/image";
+
 export default function ProfileView() {
   const user = {
     name: "Nina Valentine",
     job: "Actress",
     email: "nina_val@example.com",
     image:
-      "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?auto=format&fit=crop&w=600&q=60",
+      "/images/Nina Valentine.avif",
     bio: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquet odio augue, 
 in dapibus lacus imperdiet ut. Quisque elementum placerat neque rhoncus tempus. 
 Cras id suscipit diam, sit amet rutrum ipsum. Vestibulum rutrum elit lacinia sapien porta pulvinar. 
@@ -28,13 +30,16 @@ Vestibulum rutrum elit lacinia sapien porta pulvinar.`,
       </button>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 border p-6 rounded-md">
-        
         <div className="flex justify-center md:justify-start">
-          <img
+          <Image
             src={user.image}
             alt={user.name}
+            width={192}
+            height={192}
             className="w-48 h-48 object-cover rounded-md border"
+            priority
           />
+
         </div>
 
         <div className="flex flex-col gap-4">

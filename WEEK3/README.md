@@ -33,3 +33,11 @@
     /about - the about page
 ## as of day 3 task completetion, the said routes render pages that have some placeholder lines to represent the paths
 ## learnt about the nextjs routing in codevolution crash course where they outlined the routing concept in a clear manner.
+
+## Some modifications:
+### Needed to implement on page seo tags (Metadata):
+#### Since the pages are static pages, I went along with using the simple static metadata object
+#### Metadata objects cannot be added to pages.jsx containing 'use-client' directive. So reworked the following pages to add metadata objects and created components for the same -
+- /dashboard/page.jsx and dashboard component
+- /login/page.jsx and login-form component
+- Replaced standard html img tag with nextjs image component on user-profile component
