@@ -9,8 +9,7 @@ function askEnvironment() {
       output: process.stdout
     });
 
-    rl._writeToOutput = ()=>{};
-    rl.question("", (answer) => {
+    rl.question("Choose environment (local / dev / prod): ", (answer) => {
       rl.close();
 
       const env = answer.trim();

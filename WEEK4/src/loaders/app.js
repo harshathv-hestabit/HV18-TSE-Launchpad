@@ -25,5 +25,6 @@ export default async function loadApp() {
   }
 
   app.use(MainRouter());
+
   return app;
 }
