@@ -10,12 +10,14 @@ const productSchema = new mongoose.Schema(
         tags: { type: [String], required: true, trim: true },
         status: { type: String, enum: ['active', 'inactive'], default: 'active' }
     },
-    { timestamps: true }
+    {
+        timestamps: true,
+        strict: false
+    }
 );
 
-productSchema.pre('save', function (next) {
+productSchema.pre('save', function () {
     if (this.name) this.name = this.name.trim();
-    next();
 });
 
 productSchema.index({ status: 1, createdAt: -1 });
