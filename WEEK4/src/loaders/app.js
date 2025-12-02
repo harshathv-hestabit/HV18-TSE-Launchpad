@@ -1,18 +1,20 @@
 import express from "express";
 import config from "./config.js";
 import loadDB from "./db.js";
-import MainRouter from "../routes/main-router.js"
+import MainRouter from "../routes/main.router.js"
+import applySecurity from "../middlewares/security.middleware.js"
+import errorMiddleware from "../middlewares/error.middleware.js"
+import getRoutes from "../utils/getEndpointsCount.js"
 import logger from "../utils/logger.js";
+import { traceMiddleware } from "../utils/tracing.js";
+import swaggerUi from "swagger-ui-express";
+import swaggerSpec from "../config/swagger.js";
 
 export default async function loadApp() {
   const app = express();
-  app.use(express.json());
+  applySecurity(app);
 
-  app.listen(config.port, () => {
-    logger.info(`Server started on port ${config.port}`);
-  });
-
-  await loadDB();
+  await loadDB(config.dbUri);
 
   const middlewares = app.router.stack.filter(
     (layer) => layer.name === "bound dispatch" ? false : !!layer.handle && !layer.route
@@ -23,8 +25,13 @@ export default async function loadApp() {
   } else {
     logger.info("No middlewares mounted");
   }
+  app.use(traceMiddleware);
+  app.use("/", MainRouter);
+  app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
+  app.use(errorMiddleware);
 
-  app.use(MainRouter());
+  const countEndpoints = getRoutes(MainRouter);
+  logger.info(`Routes Mounted: ${countEndpoints.length} endpoints`);
 
   return app;
 }
