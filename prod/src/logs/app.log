@@ -1,0 +1,349 @@
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-01T12:40:21.261Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-01T12:42:08.109Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Processing job 10
+✓  Email sent.
+✓  Job completed: 10
+✓  Processing job 11
+✓  Email sent.
+✓  Job completed: 11
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Server started on port 3001
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Server started on port 3001
+✓  Processing job 12
+✓  Email sent.
+✓  Job completed: 12
+✓  Processing job 13
+✓  Email sent.
+✓  Job completed: 13
+✓  Processing job 14
+✓  Email sent.
+✓  Job completed: 14
+✓  Processing job 15
+✓  Email sent.
+✓  Job completed: 15
+✓  Processing job 16
+✓  Email sent.
+✓  Job completed: 16
+✓  Processing job 17
+✓  Email sent.
+✓  Job completed: 17
+✓  Processing job 18
+✓  Email sent.
+✓  Job completed: 18
+✓  Processing job 19
+✓  Email sent.
+✓  Job completed: 19
+✓  Processing job 20
+✓  Email sent.
+✓  Job completed: 20
+✓  Processing job 21
+✓  Email sent.
+✓  Job completed: 21
+✓  Processing job 22
+✓  Email sent.
+✓  Job completed: 22
+✓  Processing job 23
+✓  Email sent.
+✓  Job completed: 23
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Server started on port 3001
+✓  Database Connected
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Server started on port 3001
+✓  Database Connected
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.125Z"}
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.125Z"}
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.128Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.128Z"}
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.127Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.131Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.148Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.125Z"}
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.153Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.127Z"}
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.127Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:44:40.224Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.429Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.505Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.599Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.629Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.643Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.663Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.713Z"}
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.718Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.795Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.793Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.817Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:14.825Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T03:45:26.140Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:49:20.038Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:49:49.230Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:52:43.589Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:53:18.233Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:53:39.988Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:54:04.084Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:54:55.702Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:56:01.325Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:57:26.935Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","requestId":null,"timestamp":"2025-12-02T05:57:42.223Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port undefined
+{"message":"Database Connection Failed Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","requestId":null,"timestamp":"2025-12-02T05:58:04.103Z"}
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 4000
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 4000
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 4000
+✓  Processing job 24
+✓  Email sent.
+✓  Job completed: 24
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 4000
+✓  Processing job 25
+✓  Email sent.
+✓  Job completed: 25 send-email
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 4000
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 4000
+✓  Processing job 26
+✓  Email sent.
+✓  Job completed: 26 - send-email
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 4000
+✓  Processing job 27
+✓  Email sent.
+✓  Job completed: 27 - send-email
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 4000
+✓  Processing job 28
+✓  Email sent.
+✓  Job completed: 28 - send-email

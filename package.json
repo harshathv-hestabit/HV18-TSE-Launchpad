@@ -15,16 +15,35 @@
   "type": "module",
   "main": "src/app.js",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "nodemon src/server.js",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest --detectOpenHandles --runInBand test/*.test.js"
   },
   "dependencies": {
+    "@exortek/express-mongo-sanitize": "^1.1.1",
     "bcrypt": "^6.0.0",
+    "bullmq": "^5.65.0",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "express-list-endpoints": "^7.1.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^8.2.1",
     "express-route-visualizer": "^0.4.0",
+    "express-xss-sanitizer": "^2.0.1",
+    "helmet": "^8.1.0",
+    "hpp": "^0.2.3",
+    "jest": "^30.2.0",
+    "joi": "^18.0.2",
     "mongoose": "^9.0.0",
-    "winston": "^3.18.3"
+    "nodemailer": "^7.0.11",
+    "supertest": "^7.1.4",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-model-validator": "^3.0.21",
+    "swagger-ui-express": "^5.0.1",
+    "tslib": "^2.8.1",
+    "uuid": "^13.0.0",
+    "winston": "^3.18.3",
+    "xss-clean": "^0.1.4"
   },
   "devDependencies": {
     "nodemon": "^3.1.11"

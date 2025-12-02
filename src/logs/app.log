@@ -597,3 +597,1001 @@
 ✓ Middlewares mounted
 ✓ Routes Mounted: 7 endpoints
 ✓ Server started on port 3001
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","code":"UNKNOWN_ERROR","timestamp":"2025-11-27T11:39:54.155Z","path":"/product/123"}
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","code":"UNKNOWN_ERROR","timestamp":"2025-11-27T11:40:05.297Z","path":"/product/123"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","code":"UNKNOWN_ERROR","timestamp":"2025-11-27T11:40:52.846Z","path":"/product131"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","timestamp":"2025-11-27T11:41:06.574Z","path":"/product131"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","timestamp":"2025-11-27T11:42:17.911Z","path":"/product131"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","timestamp":"2025-11-27T11:42:35.224Z","path":"/product131"}
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","timestamp":"2025-11-27T11:44:44.996Z","path":"/product131"}
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","timestamp":"2025-11-27T11:44:50.276Z","path":"/product"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","timestamp":"2025-11-27T11:45:18.302Z","path":"/product"}
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","timestamp":"2025-11-27T11:45:26.092Z","path":"/test"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ No middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T11:46:44.796Z","path":"/product/123"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ No middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T11:47:30.682Z","path":"/product/123"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ No middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T11:51:08.690Z","path":"/product/123"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ No middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ No middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ No middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ No middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cannot set property query of #<IncomingMessage> which has only a getter","timestamp":"2025-11-27T11:57:55.643Z","path":"/products/123"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ No middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:11:47.998Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:11:48.486Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:11:49.031Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:11:49.422Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:11:51.297Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:11:51.917Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:11:52.513Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:11:53.083Z","path":"/product/12"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:08.604Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:09.124Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:09.540Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:09.861Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:11.664Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:12.004Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:12.317Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:12.620Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:13.907Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:14.442Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:14.881Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:15.246Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:15.810Z","path":"/product/12"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:35.371Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:35.892Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:36.263Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:36.576Z","path":"/product/12"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sad\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:37.343Z","path":"/product/12sad"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sad\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:37.765Z","path":"/product/12sad"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdad\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:38.154Z","path":"/product/12sadasdad"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsa\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:38.432Z","path":"/product/12sadasdadsa"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsa\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:38.765Z","path":"/product/12sadasdadsa"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsaasda\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:39.084Z","path":"/product/12sadasdadsaasda"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsaasda\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:39.420Z","path":"/product/12sadasdadsaasda"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsaasdadasd\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:39.784Z","path":"/product/12sadasdadsaasdadasd"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsaasdadasdas\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:40.128Z","path":"/product/12sadasdadsaasdadasdas"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsaasdadasdasdd\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:40.468Z","path":"/product/12sadasdadsaasdadasdasdd"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsaasdadasdasddadad\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:40.825Z","path":"/product/12sadasdadsaasdadasdasddadad"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsaasdadasdasddadadasdas\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:41.160Z","path":"/product/12sadasdadsaasdadasdasddadadasdas"}
+{"success":false,"message":"Cast to ObjectId failed for value \"12sadasdadsaasdadasdasddadadasdasasdsadasdasd\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:42.375Z","path":"/product/12sadasdadsaasdadasdasddadadasdasasdsadasdasd"}
+{"success":false,"message":"Cast to ObjectId failed for value \"asd\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:46.526Z","path":"/product/asd"}
+{"success":false,"message":"Cast to ObjectId failed for value \"asda\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:47.120Z","path":"/product/asda"}
+{"success":false,"message":"Cast to ObjectId failed for value \"asdads\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:47.666Z","path":"/product/asdads"}
+{"success":false,"message":"Cast to ObjectId failed for value \"asdadssada\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2025-11-27T12:12:48.249Z","path":"/product/asdadssada"}
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Server started on port 4000
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port undefined
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port undefined
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T06:07:50.237Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T06:13:01.832Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T06:14:50.540Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T06:16:46.793Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T06:18:37.019Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T06:20:33.461Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T06:21:19.648Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T06:22:05.237Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T06:29:21.904Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Operation `products.find()` buffering timed out after 10000ms","timestamp":"2025-12-01T07:33:03.982Z","path":"/product"}
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Operation `products.find()` buffering timed out after 10000ms","timestamp":"2025-12-01T07:33:08.710Z","path":"/product"}
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T07:33:09.304Z","path":"/product"}
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"message":"Database Connection Failed The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"Operation `products.find()` buffering timed out after 10000ms","timestamp":"2025-12-01T07:33:14.004Z","path":"/product"}
+{"success":false,"message":"Operation `products.find()` buffering timed out after 10000ms","timestamp":"2025-12-01T07:33:18.730Z","path":"/product"}
+{"success":false,"message":"Operation `products.find()` buffering timed out after 10000ms","timestamp":"2025-12-01T07:33:28.738Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+{"success":false,"message":"request entity too large","code":413,"timestamp":"2025-12-01T07:34:09.056Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 8 endpoints
+✓ Server started on port 3001
+{"success":false,"message":"addEmailJob is not defined","timestamp":"2025-12-01T08:54:30.180Z","path":"/test-email"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 8 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 8 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 7 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 8 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 8 endpoints
+✓ Server started on port 3001
+{"success":false,"message":"getRequestContext is not defined","timestamp":"2025-12-01T09:17:37.562Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 8 endpoints
+✓ Server started on port 3001
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 8 endpoints
+✓ Server started on port 3001
+{"success":false,"message":"uuid is not defined","timestamp":"2025-12-01T09:19:35.899Z","path":"/product"}
+✓ Database Connected
+✓ Middlewares mounted
+✓ Routes Mounted: 8 endpoints
+✓ Server started on port 3001
+✓ [req:null] Database Connected
+✓ [req:null] Middlewares mounted
+✓ [req:null] Routes Mounted: 8 endpoints
+✓ [req:null] Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+  Database Connected
+  Middlewares mounted
+  Routes Mounted: 8 endpoints
+  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+{"success":false,"message":"logger is not a function","path":"/product","requestId":"7385b3f5-49e9-404c-9d51-aa9fbc6dc6a3","timestamp":"2025-12-01T09:46:54.819Z"}
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓ [req:dbe6b2e2-400b-4da9-bd50-061843c3335f] [reqId=dbe6b2e2-400b-4da9-bd50-061843c3335f] Creating product
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓ [req:0f96193d-a726-4a1f-9b4b-88a2e6b9c2cd] Creating product
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Processing job 4
+✓  Job failed: 4 - Missing credentials for "PLAIN"
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓ [req:3e7656d4-b691-4cc9-8e3e-262e799a7ef6] Creating product
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓ [req:7e7df1ff-47c5-440c-80d3-4da166a8f962] Creating product
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓ [req:fa5be5a4-8415-402c-bce3-a72a9044738d] Creating product
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓ [req:9c523e01-8ec7-455e-b84e-18303cc9f2c5] Creating product
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  function startEmailJobWorker() {
+    logger.info("Starting Email Job Worker...");
+
+    const worker = new Worker(
+        "emailQueue",
+        async (job) => {
+            logger.info(`Processing job ${job.id}`);
+            logger.info("Email sent.");
+        },
+        {
+            connection: process.env.REDIS_URL
+                ? { url: process.env.REDIS_URL }
+                : null
+        }
+    );
+
+    worker.on("completed", (job) => {
+        logger.info(`Job completed: ${job.id}`);
+    });
+
+    worker.on("failed", (job, err) => {
+        logger.error(`Job failed: ${job?.id} - ${err.message}`);
+    });
+
+    return worker;
+}
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Starting Email Job Worker...
+✓  [object Object]
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Starting Email Job Worker...
+✓  [object Object]
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Starting Email Job Worker...
+✓  [object Object]
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Starting Email Job Worker...
+✓  [object Object]
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Starting Email Job Worker...
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓ [req:ac97141b-2147-435e-b998-c756902dc42f] Creating product
+✓  Starting Email Job Worker...
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓ [req:d4d1c855-7c0b-4065-af25-ff181421e94a] Creating product
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓ [req:c25c8219-84c6-4f30-9486-3276a5a53cc2] Creating product
+✓  Processing job 5
+✓  Email sent.
+✓  Job completed: 5
+✓  Processing job 6
+✓  Email sent.
+✓  Job completed: 6
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Processing job 7
+✓  Email sent.
+✓  Job completed: 7
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Processing job 8
+✓  Email sent.
+✓  Job completed: 8
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Processing job 9
+✓  Email sent.
+✓  Job completed: 9
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 3001
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+{"success":false,"message":"request entity too large","code":413,"path":"/product","requestId":null,"timestamp":"2025-12-02T11:18:51.491Z"}
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+{"success":false,"message":"request entity too large","code":413,"path":"/product","requestId":null,"timestamp":"2025-12-02T13:42:15.535Z"}
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+{"success":false,"message":"request entity too large","code":413,"path":"/product","requestId":null,"timestamp":"2025-12-02T13:43:12.807Z"}
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
