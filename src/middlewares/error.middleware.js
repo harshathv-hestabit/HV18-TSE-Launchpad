@@ -15,15 +15,16 @@ import logger from "../utils/logger.js";
 // }
 
 export default function errorMiddleware(err, req, res, next) {
+    console.log(err);
     const errorPayload = {
         success: false,
         message: err.message || "Internal Server Error",
-        code: err.code || "UNKNOWN_ERROR",
+        code: err.status,
         timestamp: new Date().toISOString(),
         path: req.originalUrl
     };
 
-    logger.error(errorPayload);  // this now works
+    logger.error(errorPayload);
 
     res.status(err.status || 500).json(errorPayload);
 }

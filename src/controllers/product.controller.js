@@ -1,10 +1,13 @@
 import ProductService from "../services/product.service.js";
-
+import logger from "../utils/logger.js";
+import { getRequestContext } from "../utils/tracing.js";
 class ProductController {
     async create(req, res, next) {
         try {
+            const { requestId } = getRequestContext();
+            logger.info(`Creating product`);
             const data = await ProductService.createProduct(req.body);
-            res.status(201).json({ success: true, data });
+            res.status(201).json({ success: true,message:"created", data });
         } catch (err) {
             next(err);
         }
