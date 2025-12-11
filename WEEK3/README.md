@@ -2,17 +2,17 @@
 
 ## ***Screenshots***
  ### **Landing Page**
- ![Landing Page](../screenshots/LandingPage.png)
+ ![Landing Page](./screenshots/LandingPage.png)
  ### **Dashboard Page**
- ![Dashboard Page](../screenshots/Dashboard.png)
+ ![Dashboard Page](./screenshots/Dashboard.png)
  ### **About Page**
- ![About Page](../screenshots/About.png)
+ ![About Page](./screenshots/About.png)
  ### **Users Page**
- ![Users Page](../screenshots/Users.png)
+ ![Users Page](./screenshots/Users.png)
  ### **Profile Page**
- ![Profile Page](../screenshots/Profile.png)
+ ![Profile Page](./screenshots/Profile.png)
  ### **Login Page**
- ![Login Page](../screenshots/Login.png)
+ ![Login Page](./screenshots/Login.png)
 
 ## ***Folder Structure***
     week3-next-tailwind-frontend/
