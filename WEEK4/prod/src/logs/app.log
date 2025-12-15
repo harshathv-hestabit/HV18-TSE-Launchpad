@@ -347,3 +347,7 @@
 ✓  Processing job 28
 ✓  Email sent.
 ✓  Job completed: 28 - send-email
+✓  Database Connected
+✓  Middlewares mounted
+✓  Routes Mounted: 8 endpoints
+✓  Server started on port 4000
