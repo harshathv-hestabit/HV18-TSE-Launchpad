@@ -1,0 +1,5 @@
+.env
+.venv
+quantized
+results
+__pycache__
