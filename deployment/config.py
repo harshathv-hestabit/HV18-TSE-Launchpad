@@ -1,0 +1,16 @@
+from pathlib import Path
+
+MODEL_PATH = Path("quantized/model-q4_0.gguf")
+
+N_CTX = 32768
+N_THREADS = 8
+
+API_HOST = "0.0.0.0"
+API_PORT = 8000
+
+MAX_MAX_TOKENS = 2048
+DEFAULT_MAX_TOKENS = 512
+
+DEFAULT_TEMPERATURE = 0.7
+DEFAULT_TOP_P = 0.95
+DEFAULT_TOP_K = 40
