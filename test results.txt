@@ -1,0 +1,19 @@
+python3 benchmark.py
+Running FP16 on CPU...
+`torch_dtype` is deprecated! Use `dtype` instead!
+The module name model fp16 (originally model fp16) is not a valid Python identifier. Please rename the original module to avoid import issues.
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Running INT8 on CPU...
+Running INT4 on CPU...
+  Format  Disk_GB  RAM_GB  Latency_sec  Tokens_per_sec  Generated_tokens
+0   FP16    2.890   0.001       35.276           7.257               256
+1   INT8    1.672   0.000      105.338           2.430               256
+2   INT4    1.080   0.000      921.584           0.278               256
+
+
+python3 gguf_bench.py
+Running GGUF_Q4...
+Running GGUF_Q8...
+    Format  Disk_GB  RAM_GB  Latency_sec  Tokens_per_sec  Generated_tokens
+0  GGUF_Q4    0.871   0.005       10.273          24.920               256
+1  GGUF_Q8    1.533   0.004       15.747          16.257               256

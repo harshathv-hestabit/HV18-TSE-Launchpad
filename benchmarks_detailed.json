@@ -1,0 +1,152 @@
+[
+  {
+    "model": "Base Model",
+    "port": 8080,
+    "prompt_id": 1,
+    "task": "extraction",
+    "latency_sec": 4.327120542526245,
+    "tokens_per_sec": 6.239715241266875,
+    "peak_mem_mb": 8.33984375,
+    "prompt_tokens": 41,
+    "completion_tokens": 27,
+    "scores": {
+      "exact_match": 1.0,
+      "token_f1": 0.7
+    },
+    "response": "Tenkan-sen, Kijun-sen, Senkou Span A, Senkou Span B, Chikou Span",
+    "error": null
+  },
+  {
+    "model": "Base Model",
+    "port": 8080,
+    "prompt_id": 2,
+    "task": "reasoning",
+    "latency_sec": 29.269718408584595,
+    "tokens_per_sec": 11.684430824578548,
+    "peak_mem_mb": 0.02734375,
+    "prompt_tokens": 32,
+    "completion_tokens": 342,
+    "scores": {
+      "bertscore_f1": 0.08482208847999573
+    },
+    "response": "In the context of economics and business theory, businesses can be considered as one type of buyer within the broader framework of the factor market. The factor market refers to the exchange of factors or inputs that enable production processes, such as labor, capital (financial resources), land, and entrepreneurship.\n\nWhen we say businesses are buyers in the factor market, it means that they purchase these essential elements required for their operations and growth. These purchases include not just direct expenditures on physical assets like machinery and buildings but also indirect costs associated with managing and leveraging human resources, financial management, and other operational aspects necessary for running an enterprise successfully.\n\nThe significance of businesses acting as buyers lies in how effectively they manage these purchasing decisions impacts overall profitability and competitiveness within the marketplace. By strategically acquiring the right mix of factors at optimal prices, businesses aim to enhance productivity, reduce costs, and create value through enhanced efficiency in resource utilization.\n\nTherefore, viewing businesses as buyers in the factor market highlights their critical role in driving economic activity and innovation across various sectors by ensuring that all productive inputs are available at competitive rates. This perspective underscores the importance of effective corporate strategy and decision-making regarding the allocation of both tangible and intangible resources.",
+    "error": null
+  },
+  {
+    "model": "Base Model",
+    "port": 8080,
+    "prompt_id": 3,
+    "task": "qa",
+    "latency_sec": 49.14122986793518,
+    "tokens_per_sec": 10.622444765889076,
+    "peak_mem_mb": 0.00390625,
+    "prompt_tokens": 37,
+    "completion_tokens": 522,
+    "scores": {
+      "exact_match": 0.0,
+      "rouge_l": 0.15730337078651685
+    },
+    "response": "In economics, the macro environment refers to the broad economic conditions that affect an entire country or region. It includes various factors that influence aggregate demand, supply, prices, and economic growth. The key factors typically included in the macro environment can vary depending on the specific context but generally encompass several important aspects:\n\n1. **Global Economic Conditions**: This involves the performance of major economies worldwide, including inflation rates, interest rates, exchange rates, trade policies, and global market trends.\n\n2. **Political Environment**: This includes political stability, government regulations, taxes, fiscal policy, monetary policy, and the likelihood of changes in leadership or new policies.\n\n3. **Technological Trends**: Advances in technology can significantly impact industries, productivity, and consumer behavior.\n\n4. **Environmental Regulations**: Changes in environmental laws and standards can affect production costs and sustainability practices.\n\n5. **Labor Market Dynamics**: Employment levels, wage pressures, labor shortages, and skills mismatch can all be influenced by macroeconomic conditions.\n\n6. **Consumer Behavior**: Shifts in preferences, spending habits, and saving behaviors can be affected by broader economic conditions such as unemployment rates, disposable income, and inflation expectations.\n\n7. **Investment Climate**: Factors like tax incentives for businesses, ease of doing business, and access to capital markets play crucial roles in investment decisions.\n\n8. **Market Access**: Trade agreements, tariffs, and barriers to international trade can impact both imports and exports.\n\n9. **Economic Indicators**: Key economic indicators such as GDP growth, employment figures, inflation rates, and balance of payments data provide insights into the health of an economy.\n\nUnderstanding these macro-environmental factors is essential for businesses, investors, policymakers, and economists because they collectively shape the economic landscape within which companies operate. By analyzing these factors, stakeholders can make informed decisions about strategy, investments, and risk management.",
+    "error": null
+  },
+  {
+    "model": "Fine-Tuned Model",
+    "port": 8081,
+    "prompt_id": 1,
+    "task": "extraction",
+    "latency_sec": 32.80912375450134,
+    "tokens_per_sec": 8.473252808583739,
+    "peak_mem_mb": 8.3515625,
+    "prompt_tokens": 41,
+    "completion_tokens": 278,
+    "scores": {
+      "exact_match": 0.0,
+      "token_f1": 0.08383233532934131
+    },
+    "response": "Ichimoku Kinko Hyo (IKH) is a Japanese technical analysis tool that provides traders with a broad range of indicators to evaluate market trends and support/resistance levels. The main components of the Ichimoku indicator include:\n\n  * Senkou Span A: A leading span calculated from the closing prices of the past 26 periods.\n  * Senkou Span B: A trailing span based on the closing prices of the last 52 periods.\n  * Chikou Span: Shows the price action two days after the close.\n  * Tenkan-sen (Leading Span): A simple moving average (SMA) of the high-low midpoint over the last 9 periods.\n  * Kijun-sen (Trailing Span): A 26-period SMA of the closing prices.\n\nThese five elements work together to provide insight into the overall trend, momentum, and potential reversal points in the market. The Ichimoku indicator was developed in Japan during the 1950s by candlestick chart pioneer Dōjirō Ishida. It gained popularity among traders worldwide due to its simplicity and ability to capture complex market dynamics.",
+    "error": null
+  },
+  {
+    "model": "Fine-Tuned Model",
+    "port": 8081,
+    "prompt_id": 2,
+    "task": "reasoning",
+    "latency_sec": 14.085039377212524,
+    "tokens_per_sec": 8.377683358905355,
+    "peak_mem_mb": 0.02734375,
+    "prompt_tokens": 32,
+    "completion_tokens": 118,
+    "scores": {
+      "bertscore_f1": 0.26673370599746704
+    },
+    "response": "The factor market is where businesses buy the resources they need to operate, such as labor, capital (like machinery and equipment), raw materials, and services from other firms or individuals. This exchange forms the backbone of economic activity, enabling businesses to expand their operations, invest in technology, and generate profits. By understanding the dynamics of the factor market, policymakers can help ensure that it functions efficiently and supports sustainable growth across various sectors.",
+    "error": null
+  },
+  {
+    "model": "Fine-Tuned Model",
+    "port": 8081,
+    "prompt_id": 3,
+    "task": "qa",
+    "latency_sec": 48.51765966415405,
+    "tokens_per_sec": 10.5528585579794,
+    "peak_mem_mb": 0.00390625,
+    "prompt_tokens": 37,
+    "completion_tokens": 512,
+    "scores": {
+      "exact_match": 0.0,
+      "rouge_l": 0.1473087818696884
+    },
+    "response": "The macro environment includes broad economic trends that affect an entire industry or market. It involves both microeconomic variables, which can be influenced by individual decisions, and macroeconomic factors, which are more systematic influences on the economy as a whole.\n\nKey components of the macro environment include:\n\n1. National policies: These encompass regulations, tax laws, monetary policy (interest rates), and trade agreements that influence business operations at the national level.\n\n2. Global events: Such as geopolitical tensions, natural disasters, international conflicts, and global financial crises impact the domestic economy through changes in supply chains, currency exchange rates, and consumer behavior.\n\n3. Technological advancements: New technologies often transform industries, affecting productivity levels, costs, and consumer preferences.\n\n4. Demographics: Changes in population size, age distribution, and income levels shape labor markets and consumer spending patterns.\n\n5. Economic cycles: Fluctuations in GDP growth, inflation, unemployment, and interest rates reflect shifts between expansionary and recessionary phases in the business cycle.\n\n6. Consumer sentiment: Public attitudes toward purchasing goods and services influence demand for products across various sectors.\n\n7. Market structure: The nature of competition among firms within specific industries affects pricing power and innovation dynamics.\n\n8. Exchange rate fluctuations: Movements in foreign currencies relative to the local currency impact exports, imports, and investment flows.\n\n9. Environmental concerns: Growing awareness of sustainability issues drives corporate responsibility practices and regulatory compliance requirements.\n\n10. Social trends: Shifts in cultural values, social norms, and lifestyle choices shape consumer preferences and product demands.\n\nUnderstanding these macro-level forces helps businesses navigate economic environments effectively and adapt their strategies accordingly. By analyzing how different factors interact with each other, companies can anticipate potential challenges and capitalize on opportunities presented by changing market conditions.",
+    "error": null
+  },
+  {
+    "model": "Quantized Q4 Model",
+    "port": 8082,
+    "prompt_id": 1,
+    "task": "extraction",
+    "latency_sec": 0.8985438346862793,
+    "tokens_per_sec": 14.46785287279709,
+    "peak_mem_mb": 8.34375,
+    "prompt_tokens": 41,
+    "completion_tokens": 13,
+    "scores": {
+      "exact_match": 0.0,
+      "token_f1": 0.0
+    },
+    "response": "Ichimoku Level 2, Ichimoku Level 9",
+    "error": null
+  },
+  {
+    "model": "Quantized Q4 Model",
+    "port": 8082,
+    "prompt_id": 2,
+    "task": "reasoning",
+    "latency_sec": 2.0344340801239014,
+    "tokens_per_sec": 28.509156706845804,
+    "peak_mem_mb": 0.0234375,
+    "prompt_tokens": 32,
+    "completion_tokens": 58,
+    "scores": {
+      "bertscore_f1": 0.240194633603096
+    },
+    "response": "A factor market is a marketplace where companies exchange goods, services, and assets with other businesses for capital. In essence, it's about how firms obtain the resources needed to produce their products or provide their services efficiently.",
+    "error": null
+  },
+  {
+    "model": "Quantized Q4 Model",
+    "port": 8082,
+    "prompt_id": 3,
+    "task": "qa",
+    "latency_sec": 4.677325010299683,
+    "tokens_per_sec": 28.22125888394114,
+    "peak_mem_mb": 0.00390625,
+    "prompt_tokens": 37,
+    "completion_tokens": 132,
+    "scores": {
+      "exact_match": 0.0,
+      "rouge_l": 0.2535211267605634
+    },
+    "response": "The macro environment refers to the overall, broader economy and its conditions. It includes things such as inflation, economic growth, unemployment rates, interest rates, government spending, tax policies, and international relations. These factors significantly impact businesses, consumers, and policymakers at a national level. The key elements of this broad economy are often referred to using acronyms: MEI (macro-environment information) and CBI (cyclically adjusted basic index), which tracks economic activity over time.",
+    "error": null
+  }
+]

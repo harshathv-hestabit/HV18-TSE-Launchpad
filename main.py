@@ -65,3 +65,48 @@ created a instruction dataset with over 3400 samples
 # save_jsonl(val_data, 'data/val.jsonl')
 # print(f"Saved {len(train_data)} train samples and {len(val_data)} validation samples")
 
+'''
+Day 3
+'''
+
+# from transformers import AutoTokenizer
+
+# tok = AutoTokenizer.from_pretrained(
+#     "results/w8d3_artifacts/merged_model_fp16",
+#     trust_remote_code=True
+# )
+
+# print(tok.encode("Hello!"))
+# print(tok.decode(tok.encode("Hello!")))
+
+'''
+Day 4
+'''
+import openai
+
+openai.base_url = "http://localhost:8081/v1/"
+openai.api_key = "sk-no-key-required"
+
+# response = openai.chat.completions.create(
+#     model="results/w8d3_artifacts/merged_model_fp16",
+#     messages=[
+#         {"role": "user", "content": "Hello!"}
+#     ],
+# )
+
+prompt = """You are an AI assistant.
+
+User: Hello. My name is Harshath. Can I know more about you?
+Assistant:"""
+
+response = openai.completions.create(
+    model="results/w8d3_artifacts/merged_model_fp16",
+    prompt=prompt,
+    max_tokens=200,
+    temperature=0.2,
+)
+
+print(response.choices[0].text)
+
+with open("response.txt", "w", encoding="utf-8") as f:
+    f.write(response.choices[0].text)
