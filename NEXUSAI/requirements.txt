@@ -1,0 +1,8 @@
+autogen-core
+autogen-agentchat
+autogen-ext
+autogen-ext[ollama]
+autogen-ext[llama-cpp]
+autogen-ext[docker]
+autogen-ext[openai]
+dotenv
